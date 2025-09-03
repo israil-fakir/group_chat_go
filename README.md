@@ -20,7 +20,7 @@ by creating a real-time <b>terminal-based chatroom</b> over TCP.
 
 <hr>
 
-<h2>📂 Project Structure</h2>
+<h2>Project Structure</h2>
 <pre>
 group_chat_go/
 │── server.go   # Chat server
